@@ -3,6 +3,9 @@ package com.iot.user.mylocalrepo1application;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+/*
+수정을 해보았습니다.
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override

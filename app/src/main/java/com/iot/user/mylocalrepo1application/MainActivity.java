@@ -1,5 +1,9 @@
 package com.iot.user.mylocalrepo1application;
 
+    /*
+        수정을 해보았습니다.
+         */
+
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
